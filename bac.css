@@ -1,0 +1,80 @@
+p
+{
+font-family: sans-serif;
+}
+
+p.emp
+{
+color: red;
+font-weight: bold;
+font-family: sans-serif;
+}
+
+img.lf
+{
+float:left;
+}
+
+
+img.rf
+{
+float:right;
+}
+
+div.container
+{
+width:100%;
+margin:0px;
+border:1px black;
+line-height:130%;
+}
+
+div.head, div.foot
+{
+padding:1.9em;
+color:black;
+background-color:#CCCCCC;
+border:3px black;
+clear:left;
+}
+
+div.graphicscenter
+{
+clear:left;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+h1.head
+{
+padding:0;
+margin:0;
+text-align:center;
+font-weight: bold;
+font-family: sans-serif;
+
+}
+
+h2.head
+{
+padding:0;
+margin:0;
+text-align:center;
+font-weight: bold;
+font-family: sans-serif;
+}
+
+h3.cap
+{
+padding:0;
+margin:0;
+text-align:center;
+font-weight: bold;
+font-family: sans-serif;
+}
+
+
+a:link {color:red}
+a:visited {color:darkred}
+a:hover {color:blue}

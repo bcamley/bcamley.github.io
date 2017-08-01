@@ -1,0 +1,130 @@
+p
+{
+font-family: sans-serif;
+}
+
+p.emp
+{
+color: red;
+font-weight: bold;
+font-family: sans-serif;
+}
+
+ul
+{
+font-family: sans-serif;
+}
+
+img.lf
+{
+float:left;
+}
+
+
+img.rf
+{
+float:right;
+}
+
+div.container
+{
+width:100%;
+margin:0px;
+line-height:130%;
+}
+
+div.head, div.foot
+{
+padding:1.9em;
+color:black;
+background-color:#CCCCCC;
+border:3px black;
+clear:left;
+}
+
+div.panel
+{
+padding:0.5em;
+color:black;
+background-color:#DDDDFF;
+clear:left;
+float:left;
+width:20%;
+}
+
+
+div.graphicscenter
+{
+clear:left;
+margin-left: auto;
+margin-right: auto;
+display: inline-block;
+}
+
+
+h1.head
+{
+padding:0;
+margin:0;
+text-align:center;
+font-weight: bold;
+font-family: sans-serif;
+
+}
+
+h2.head
+{
+padding:0;
+margin:0;
+text-align:center;
+font-weight: bold;
+font-family: sans-serif;
+}
+
+h2.cap
+{
+padding:0;
+margin:0;
+text-align:center;
+font-weight: bold;
+font-family: sans-serif;
+}
+h3.cap
+{
+padding:0;
+margin:0;
+text-align:center;
+font-weight: bold;
+font-family: sans-serif;
+}
+h4.cap
+{
+padding:0;
+margin:0;
+font-weight: plain;
+font-family: sans-serif;
+}
+
+table, th, td
+{
+   border: 0px solid gray;
+}
+
+table.noborder
+{
+   border: 0px solid gray;
+} 
+
+
+.imfloat{
+    display: inline-block;
+    border: 0px solid #CCCCCC
+    		
+    
+
+}
+
+a:link {color:red}
+a:visited {color:darkred}
+a:hover {color:blue}
+
